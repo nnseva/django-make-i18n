@@ -74,5 +74,5 @@ Don't forget that django needs to compile django.po file
 using compilemessages management command.
 
 You probably should tune your code additionaly after script
-to make your code working fine. Read django internalization
+to make your code working fine. Read django internationalization
 help to get details.
