@@ -5,8 +5,8 @@ Adopt Django project to use with django-i18n features.
 Collects and replaces local strings from all project files
 and creates django.po and djangojs.po files.
 
-This project has been created when I've met a problem
-converting the Django project into the internationalized form.
+This project has been created when I've met a problem converting
+the Django project into the internationalized form.
 
 The lot of local (language-specific) strings was found in the
 project, so I was boring looking into the lot of files to:
